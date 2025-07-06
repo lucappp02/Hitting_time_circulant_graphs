@@ -10,8 +10,7 @@ system since it is impossible to obtain a complete record of a quantum trajector
 To address this issue, Dhar et al. [2, 3, 4] developed a protocol aimed at defining the mean time required for a quantum particle to be detected at a specific site.
 In this protocol, the system is prepared at t = 0 in an initial state, and a detector
 performs projective measurements stroboscopically at a fixed frequency 1/τ during the evolution governed by a given Hamiltonian. Most of the results derived
-so far within this framework pertain to localized initial states and projective measurements on single sites, including experimental implementations [5]. Notably,
-dark states—states that cannot be reached by the evolution—naturally arise in
+so far within this framework pertain to localized initial states and projective measurements on single sites, including experimental implementations [5]. Notably, dark states states that cannot be reached by the evolution—naturally arise in
 this protocol and have a non-trivial effect on the total probability of detection [6].
 However, it is natural to inquire what would happen if we were able to measure
 multiple sites simultaneously. The purpose of this work is to address this question,
