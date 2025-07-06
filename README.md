@@ -33,23 +33,32 @@ through single-site measurement strategies.
 [1] Oliver M¨ulken and Alexander Blumen. “Continuous-time quantum walks:
 Models for coherent transport on complex networks”. In: Physics Reports
 502.2-3 (2011), pp. 37–87.
+
 [2] Shrabanti Dhar et al. “Detection of a quantum particle on a lattice under repeated projective measurements”. In: Physical Review A 91.6 (2015),
 p. 062115.
+
 [3] Shrabanti Dhar, Subinay Dasgupta, and Abhishek Dhar. “Quantum time
 of arrival distribution in a simple lattice model”. In: Journal of Physics A:
 Mathematical and Theoretical 48.11 (2015), p. 115304.
+
 [4] Harel Friedman, David A Kessler, and Eli Barkai. “Quantum walks: The
 first detected passage time problem”. In: Physical Review E 95.3 (2017),
 p. 032141.
+
 [5] Qingyuan Wang et al. “First Hitting Times on a Quantum Computer: Topological Effects and Dark States”. In: arXiv preprint arXiv:2402.15843 (2024).
+
 [6] Felix Thiel et al. “Dark states of quantum search cause imperfect detection”.
 In: Physical Review Research 2.4 (2020), p. 043107.
+
 [7] Xiaogang Qiang et al. “Efficient quantum walk on a quantum processor”.
 In: Nature communications 7.1 (2016), p. 11511.
+
 [8] Bassam Bamieh. “Discovering transforms: A tutorial on circulant matrices,
 circular convolution, and the discrete fourier transform”. In: arXiv preprint
 arXiv:1805.05533 (2018).
+
 [9] Andrew MacGregor Childs. “Quantum information processing in continuous
 time”. PhD thesis. Massachusetts Institute of Technology, 2004.
+
 [10] M Frigerio. “Perspectives and applications of chiral quantum walks”. In: IL
 NUOVO CIMENTO 100.72 (2022), p. 45.
